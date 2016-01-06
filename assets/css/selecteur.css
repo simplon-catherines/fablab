@@ -1,1 +1,40 @@
-.master{}
+.master div{
+position: relative;
+float:left;
+width: 48%;
+background-color: #98B98B;
+margin : 9px;
+padding-left: 3px;
+border:1px solid #2F4F4F;
+
+}
+
+
+.master h2{
+
+
+}
+
+
+.master img{
+float:left;
+width: 55%;
+margin-right: 8px;
+
+
+}
+
+
+.master h3{
+text-transform: uppercase;
+color: white;
+font-size: 20px;
+
+
+}
+
+.master p{
+font-size: 15px;
+margin-right: 4px;
+color: #2F4F4F;
+}
